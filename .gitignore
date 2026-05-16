@@ -3,3 +3,8 @@ Thumbs.db
 .vercel
 node_modules
 *.log
+
+# Firebase (cache, deploy logs)
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
